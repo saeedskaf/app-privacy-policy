@@ -1,40 +1,116 @@
-# Privacy Policy
+# Privacy Policy for SuperDriver
 
-We takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+Effective date: 6 March 2026
 
+This Privacy Policy describes how **SuperDriver** ("the App") collects, uses, and protects your information when you use our mobile application.
 
-## Collection of Routine Information
+SuperDriver is developed and published by **SHK Team**.
 
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific users to this app. The information is tracked for routine administration and maintenance purposes.
+By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
 
+---
 
-## Cookies
+## Information We Collect
 
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the user and/or present the users with customized content.
+When you use SuperDriver, we may collect the following types of information.
 
+### Personal Information
 
-## Advertisement and Other Third Parties
+We may collect personal information that you voluntarily provide when using the app, including:
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track users activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies. 
+- Name
+- Email address
+- Phone number
+- Delivery address
 
+This information is used to create and manage your account and process orders.
 
-## Links to Third Party Websites
+---
 
-we have included links on this app for your use and reference. we are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+### Location Information
 
+SuperDriver may collect **precise location data** from your device in order to:
 
-## Security
+- Show nearby restaurants
+- Enable delivery services
+- Track orders in real time
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Location data is only used while the application is in use.
 
+---
+
+### Messages
+
+If you use the in-app chat feature, messages exchanged between users and support/admin may be stored in order to:
+
+- Provide customer support
+- Improve service quality
+
+---
+
+### Device Information
+
+The app may collect certain technical information such as:
+
+- Device identifiers
+- Crash logs
+- Diagnostics information
+
+This information helps improve the stability and performance of the application.
+
+---
+
+## How We Use Information
+
+We use the collected information for the following purposes:
+
+- To provide and maintain the app
+- To manage user accounts
+- To process food orders and deliveries
+- To provide customer support
+- To improve the performance and stability of the app
+- To prevent fraud and ensure security
+
+---
+
+## Third-Party Services
+
+SuperDriver may use third-party services such as:
+
+- Firebase Authentication
+- Firebase Cloud Messaging
+- Firebase Analytics
+- Firebase Crashlytics
+
+These services may collect information according to their own privacy policies.
+
+---
+
+## Data Security
+
+The security of your personal information is important to us. We use commercially acceptable means to protect your data, but no method of transmission over the Internet or electronic storage is 100% secure.
+
+---
+
+## Account Deletion
+
+Users may request deletion of their account and associated data.
+
+To request account deletion, please visit the following page:
+
+https://saeedskaf.github.io/app-privacy-policy/delete-account.html
+
+---
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of 15/01/2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy may be updated from time to time. Any changes will be posted on this page.
 
-we reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our app.
-
+---
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send us an email to saed.alskaf@gmail.com.
+If you have any questions about this Privacy Policy, please contact:
+
+Developer: SHK Team  
+Email: saeed.alskaf@outlook.com
