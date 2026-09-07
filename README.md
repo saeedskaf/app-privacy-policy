@@ -19,12 +19,20 @@ Both pages are available in English and Arabic via the language toggle.
 
 Contact: info@superdriverapp.com
 
+## Important
+
+`privacy-policy.html` is the URL actually registered as the Privacy Policy in the
+Google Play Console store listing, so it is a **full copy** of `index.html`, not
+a redirect — an automated policy check must find the real policy text there.
+**When you edit the privacy policy, update `index.html` and `privacy-policy.html`
+together** (`cp index.html privacy-policy.html`).
+
 ## Alias pages
 
 To survive any older URL that may still be recorded in Play Console or
 elsewhere, these aliases redirect to the two canonical pages:
 
-- `privacy-policy.html`, `privacy.html`, `privacy_policy.html` → `index.html`
+- `privacy.html`, `privacy_policy.html` → `index.html`
 - `delete.html`, `delete_account.html`, `account-deletion.html`, `delete-account/` → `delete-account.html`
 
 `404.html` catches anything else and links to both canonical pages, so no URL
