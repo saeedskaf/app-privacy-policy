@@ -18,3 +18,14 @@ puts the app's publishing status at risk.
 Both pages are available in English and Arabic via the language toggle.
 
 Contact: info@superdriverapp.com
+
+## Alias pages
+
+To survive any older URL that may still be recorded in Play Console or
+elsewhere, these aliases redirect to the two canonical pages:
+
+- `privacy-policy.html`, `privacy.html`, `privacy_policy.html` → `index.html`
+- `delete.html`, `delete_account.html`, `account-deletion.html`, `delete-account/` → `delete-account.html`
+
+`404.html` catches anything else and links to both canonical pages, so no URL
+under this repository can return a bare 404 to a Google Play reviewer.
